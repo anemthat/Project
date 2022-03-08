@@ -1,0 +1,194 @@
+[
+  {
+    "kind": "calendar#event",
+    "etag": "\"3290200375896000\"",
+    "id": "robjlcafblusaplldma644p23o",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=cm9iamxjYWZibHVzYXBsbGRtYTY0NHAyM28gc3luaWdlbmN5QG0",
+    "created": "2022-02-17T11:46:24.000Z",
+    "updated": "2022-02-17T12:16:27.948Z",
+    "summary": "ss",
+    "description": "Tutoring  .",
+    "location": "kitchen",
+    "colorId": "5",
+    "creator": {
+      "email": "synigency@gmail.com",
+      "self": true
+    },
+    "organizer": {
+      "email": "synigency@gmail.com",
+      "self": true
+    },
+    "start": {
+      "dateTime": "2022-02-20T09:00:00+02:00",
+      "timeZone": "Africa/Johannesburg"
+    },
+    "end": {
+      "dateTime": "2022-02-20T09:30:00+02:00",
+      "timeZone": "Africa/Johannesburg"
+    },
+    "visibility": "public",
+    "iCalUID": "robjlcafblusaplldma644p23o@google.com",
+    "sequence": 0,
+    "attendees": [
+      {
+        "email": "anemthat021@student.wethinkcode.co.za",
+        "responseStatus": "needsAction"
+      }
+    ],
+    "reminders": {
+      "useDefault": true
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3290215613028000\"",
+    "id": "90bbje8p56sll8ukie1t06avjs",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=OTBiYmplOHA1NnNsbDh1a2llMXQwNmF2anMgc3luaWdlbmN5QG0",
+    "created": "2022-02-17T13:50:58.000Z",
+    "updated": "2022-02-17T14:23:26.514Z",
+    "summary": "loops",
+    "description": "Tutoring  .",
+    "location": "BCX",
+    "colorId": "5",
+    "creator": {
+      "email": "synigency@gmail.com",
+      "self": true
+    },
+    "organizer": {
+      "email": "synigency@gmail.com",
+      "self": true
+    },
+    "start": {
+      "dateTime": "2022-02-19T10:00:00+02:00",
+      "timeZone": "Africa/Johannesburg"
+    },
+    "end": {
+      "dateTime": "2022-02-19T10:30:00+02:00",
+      "timeZone": "Africa/Johannesburg"
+    },
+    "visibility": "public",
+    "iCalUID": "90bbje8p56sll8ukie1t06avjs@google.com",
+    "sequence": 0,
+    "attendees": [
+      {
+        "email": "nuwbe@gmail.com",
+        "responseStatus": "needsAction"
+      }
+    ],
+    "reminders": {
+      "useDefault": true
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3290216735484000\"",
+    "id": "uajcqd0r8gdopt35t8p0ff5psk",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=dWFqY3FkMHI4Z2RvcHQzNXQ4cDBmZjVwc2sgc3luaWdlbmN5QG0",
+    "created": "2022-02-17T14:32:47.000Z",
+    "updated": "2022-02-17T14:32:47.742Z",
+    "summary": "Recurssion",
+    "description": "Tutoring  .",
+    "location": "BCX",
+    "colorId": "5",
+    "creator": {
+      "email": "synigency@gmail.com",
+      "self": true
+    },
+    "organizer": {
+      "email": "synigency@gmail.com",
+      "self": true
+    },
+    "start": {
+      "dateTime": "2022-02-20T09:00:00+02:00",
+      "timeZone": "Africa/Johannesburg"
+    },
+    "end": {
+      "dateTime": "2022-02-20T09:30:00+02:00",
+      "timeZone": "Africa/Johannesburg"
+    },
+    "visibility": "public",
+    "iCalUID": "uajcqd0r8gdopt35t8p0ff5psk@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": true
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3290216795472000\"",
+    "id": "6639b3llharjpr5pek0q3a73rg",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=NjYzOWIzbGxoYXJqcHI1cGVrMHEzYTczcmcgc3luaWdlbmN5QG0",
+    "created": "2022-02-17T14:33:17.000Z",
+    "updated": "2022-02-17T14:33:17.736Z",
+    "summary": "Loops",
+    "description": "Tutoring  .",
+    "location": "open area",
+    "colorId": "5",
+    "creator": {
+      "email": "synigency@gmail.com",
+      "self": true
+    },
+    "organizer": {
+      "email": "synigency@gmail.com",
+      "self": true
+    },
+    "start": {
+      "dateTime": "2022-02-21T10:00:00+02:00",
+      "timeZone": "Africa/Johannesburg"
+    },
+    "end": {
+      "dateTime": "2022-02-21T10:30:00+02:00",
+      "timeZone": "Africa/Johannesburg"
+    },
+    "visibility": "public",
+    "iCalUID": "6639b3llharjpr5pek0q3a73rg@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": true
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3290216871630000\"",
+    "id": "r903p5osa21gdacv92db3il5fg",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=cjkwM3A1b3NhMjFnZGFjdjkyZGIzaWw1Zmcgc3luaWdlbmN5QG0",
+    "created": "2022-02-17T14:33:55.000Z",
+    "updated": "2022-02-17T14:33:55.815Z",
+    "summary": "If statements",
+    "description": "Tutoring  .",
+    "location": "BCX",
+    "colorId": "5",
+    "creator": {
+      "email": "synigency@gmail.com",
+      "self": true
+    },
+    "organizer": {
+      "email": "synigency@gmail.com",
+      "self": true
+    },
+    "start": {
+      "dateTime": "2022-02-22T12:00:00+02:00",
+      "timeZone": "Africa/Johannesburg"
+    },
+    "end": {
+      "dateTime": "2022-02-22T12:30:00+02:00",
+      "timeZone": "Africa/Johannesburg"
+    },
+    "visibility": "public",
+    "iCalUID": "r903p5osa21gdacv92db3il5fg@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": true
+    },
+    "eventType": "default"
+  }
+]
